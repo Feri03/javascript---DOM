@@ -1,0 +1,6 @@
+DOM selection Method
+    .getElementById()
+    .getElementsByTagName()
+    .getElementsByClassName()
+    .querySelector()
+    .querySelectorAll()

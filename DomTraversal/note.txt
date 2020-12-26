@@ -1,0 +1,7 @@
+DOM Traversal Method 
+    .parentNode
+    .parentElement
+    .nextSibling
+    .nextElementSibling
+    .previousSibling
+    .previousElementSibling

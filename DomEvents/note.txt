@@ -1,0 +1,68 @@
+
+Event pada javascript merepresentasikan sebuah kejadian yang terjadi did dalam DOM.
+kejadian tersebut bisa dilakukan oleh user, (mouse event, keyboard event, dll.)
+
+ataupun dilakukan secara otomatis oleh API.
+(animasi selesai dijalankan, halaman selesai di load, dll)
+
+cara 'mendengarkan' event
+    .Event Handler
+        .inline HTML attribute
+        .Element method
+    .addEventListener()
+
+    Daftar Event
+        .Mouse Event
+        .keyboard Event
+        .Resources Event
+        .Focus Event
+        .View Event
+        .Form Event
+        .CSS Animation & Transition Event
+        .Drag & Drop Event
+        .dll..
+            #Mouse Event
+                .click
+                .dblclick
+                .mouseover
+                .mouseenter
+                .mouseup
+                .mouseleave
+                .wheel
+                ...
+            #keyboard Event
+                .keydwop
+                .keypress
+                .keyup
+            #keyboard Event
+                .keydown
+                .keypress
+                .keyup
+            #View Event
+                .resize
+                .scroll
+            #Form Event
+                .reset
+                .submit
+            
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
